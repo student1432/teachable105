@@ -1,0 +1,20 @@
+body
+{
+    color : white;
+    background: pink;
+}
+.header
+{
+    width: 80%;
+    font-size: 22px;
+}
+#webcam_view
+{
+   border: 2px dashed black;
+   width: 350px;
+   height: 300px;
+}
+.classes_teachable, #object_rec #accuracy_rec
+{
+    color: yellow;
+}
